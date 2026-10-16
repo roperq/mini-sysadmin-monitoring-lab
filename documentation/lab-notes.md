@@ -24,4 +24,4 @@ Troubleshooting Log:
 	Record each issue, its cause, how it was resolved, and what was learned.
 
 Next Steps
-	Complete persistent logging, test the  monitoring tool, and prepare a README for GitHub.
+	
